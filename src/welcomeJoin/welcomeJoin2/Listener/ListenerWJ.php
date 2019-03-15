@@ -24,7 +24,7 @@ class ListenerWJ implements  Listener {
 
      $this->plugin->getServer()->broadcastMessage("Write here the message you want to dazzle when a player enters");
 
-     //it is possible to put the colors / format through Textformat
+     //it is possible to put the colors / format through Textformat or with §
 
     }
 }
